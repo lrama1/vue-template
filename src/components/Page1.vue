@@ -27,7 +27,7 @@
     },
     methods: {
       saveDomain () {
-        console.log('Saving.x..')
+        console.log('Saving.xx..')
         console.log(this.domain.attribute1)
       }
     }
